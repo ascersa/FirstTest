@@ -1,4 +1,4 @@
-package com.example.testproject;
+package com.example.testproject.anim;
 
 import android.util.Log;
 import android.view.View;

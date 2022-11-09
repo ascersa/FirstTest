@@ -145,7 +145,7 @@
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-    <com.example.testproject.TestViewGroup
+    <com.example.testproject.view.TestViewGroup
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="15dp"
@@ -187,10 +187,6 @@
             android:layout_height="wrap_content"
             android:text="dddddddddddddddddddd" />
 
-    </com.example.testproject.TestViewGroup>
-
-    <androidx.cardview.widget.CardView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+    </com.example.testproject.view.TestViewGroup>
 
 </LinearLayout>
